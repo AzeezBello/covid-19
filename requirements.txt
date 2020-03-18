@@ -11,3 +11,5 @@ django-csp
 django-progressive-web-app
 whitenoise
 django-heroku
+bs4
+requests
