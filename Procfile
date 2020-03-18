@@ -1,1 +1,1 @@
-web: gunicorn scholarx.wsgi --log-file -
+web: gunicorn covid_19.wsgi --log-file -
